@@ -1,1 +1,1 @@
-# This gem will allow a user to set a single default object
+# This gem will allow user to set a single default object in scope
